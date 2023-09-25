@@ -1,0 +1,24 @@
+/* *{
+   border:1px solid red;
+   margin:0px;
+   padding:0px; */
+/* } */
+div > p {
+  color:orange;
+  font-size: 40px;
+  border: 1px solid grey;
+}
+p{
+  margin:30px;
+  padding:40px;
+  border:10px solid grey;
+}
+
+.fruit > li{
+  color:green;
+  font-size:8px;
+}
+
+.eat {
+  color:red;
+}

@@ -1,0 +1,20 @@
+<html>
+
+<head>
+    <title>Website Title</title>
+    <link rel="stylesheet" href="./styles.css"
+</head>
+<p> I need to get groceries!! </p>
+  <body>
+    <img src = "https://hips.hearstapps.com/hmg-prod/images/22-del-groceries-explainer-lead-copy-1676322615.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"/>
+   
+    <h1>Grocery list</h1>
+    <ul>
+      <li>Eggs</li>
+      <li>Spinach</li>
+      <li>Sriracha sauce</li>
+    </ul>
+
+  </body>
+</html>
+ 
