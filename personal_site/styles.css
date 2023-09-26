@@ -1,6 +1,13 @@
 * {
   box-sizing: border-box;
 }
+.header-container{
+  display: flex;
+  font-weight: 600;
+  font-size: 24px;
+  justify-content: space-between;
+  background:lightgoldenrodyellow;
+}
 
 .nav-items {
   display: flex;
@@ -21,3 +28,19 @@
   background-color: bisque;
   color: black;
 }
+
+.name {
+  display: flex;
+    align-self: center;
+}
+
+.container{
+  background: aliceblue;
+  height: 100vh;
+}
+
+.photo {
+    border: 1px solid;
+    border-radius: 4px;
+    width: 200px;
+  }
